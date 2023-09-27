@@ -25,7 +25,7 @@
 		"README.md"
 	],
 	"dependencies": {
-		"@commitlint/config-conventional": "^8.2.0",
+		"@commitlint/config-conventional": "^8.3.6",
 		"@commitlint/core": "^17.7.1",
 		"probot": "^12.3.1"
 	},
