@@ -7,5 +7,6 @@
         "**/.DS_Store": true,
         "**/Thumbs.db": true
     },
-    "explorerExclude.backup": {}
+    "explorerExclude.backup": {},
+    "travis.github_oauth_token": "_W00dz1cu8euVaOMq2jcIQ"
 }
