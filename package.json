@@ -25,7 +25,7 @@
 		"README.md"
 	],
 	"dependencies": {
-		"@commitlint/core": "^19.0.0",
+		"@commitlint/core": "^19.2.1",
 		"probot": "^13.0.0"
 	},
 	"devDependencies": {
@@ -35,8 +35,8 @@
 		"smee-client": "^2.0.0"
 	},
 	"engines": {
-		"node": "20.x.x",
-		"npm": "10.x"
+		"node": "21.x.x",
+		"npm": "10.x.x"
 	},
 	"jest": {
 		"testEnvironment": "node"
